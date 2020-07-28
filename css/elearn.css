@@ -113,7 +113,7 @@
   }
  .main-section{
      position: relative;
-    width: 100%;
+    max-width: 100%;
     min-height: 100vh;
     background: linear-gradient(170deg, #fff 10% , #eee 64%);
  }
