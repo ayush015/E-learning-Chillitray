@@ -322,7 +322,7 @@ background: -o-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 24
     background-position: bottom -120px center;
     background-repeat: no-repeat;
     background-size: auto 94%;
-    margin-bottom: 142px;
+    margin-bottom: -300px;
 }
 
 .feature-area .page-title .title {
@@ -545,7 +545,7 @@ background: -o-linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 24
     }
     .feature-area{
         background-image: none;
-        margin-bottom: 0;
+        margin-bottom: -300px;
         margin-top: 0;
     }
     
